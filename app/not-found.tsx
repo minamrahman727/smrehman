@@ -12,13 +12,7 @@ import {
   FaChevronRight,
 } from "react-icons/fa";
 
-export const metadata = {
-  title: "404 - Page Not Found",
-  description: "The page you are looking for does not exist.",
-  icons: {
-      icon: "/1.ico",
-  },
-  };
+
 const NotFound = () => {
   // const [ setIsScrolled] = useState(false);
   const [animateError, setAnimateError] = useState(false);
