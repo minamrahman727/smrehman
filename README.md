@@ -82,5 +82,5 @@ npm run dev
 # or
 yarn dev
 ```  
-<p>Navigate to http://localhost:3000 to view the site.</p>
+- Navigate to http://localhost:3000 to view the site.
 ---
